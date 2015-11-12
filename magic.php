@@ -5,10 +5,10 @@ trait Cartrait{
 
     }
 
-
+//bnm,.
 
 }
-else  Car{
+class  Car{
     use Cartrait;
     public $wheels=4;
 
