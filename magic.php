@@ -8,7 +8,7 @@ trait Cartrait{
 
 
 }
-else Car{
+else  Car{
     use Cartrait;
     public $wheels=4;
 
